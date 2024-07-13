@@ -1,0 +1,1 @@
+from utility.salary_caclulations import total_salary
